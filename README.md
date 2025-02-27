@@ -9,10 +9,6 @@ A simple digital clock web application that displays the current time in hours, 
 - Responsive design
 - Easy to customize
 
-## Live Demo
-
-[View Demo](https://umakantapradhan.github.io/Digital-Clock/)
-
 ## Installation
 
 1. Clone the repository:
